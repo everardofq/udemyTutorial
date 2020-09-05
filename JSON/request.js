@@ -1,5 +1,6 @@
 request{
 	"name":"Everardo",
 	"apellido":"Flores Quiroz",
-	"edad":28
+	"edad":28,
+	"company":"NBA"
 }
