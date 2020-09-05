@@ -1,4 +1,5 @@
 request{
 	"name":"Everardo",
-	"apellido":"Flores"
+	"apellido":"Flores Quiroz",
+	"edad":27
 }
